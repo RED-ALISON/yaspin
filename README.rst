@@ -433,8 +433,8 @@ Contributing
 License
 -------
 
-* MIT - Pavlo Dmytrenko; https://twitter.com/pavdmyt
-* Contains data from `cli-spinners`_: MIT License, Copyright (c) Sindre Sorhus sindresorhus@gmail.com (sindresorhus.com)
+* MIT - Alison Parker; https://twitter.com/roycebobwillie
+* Contains data from `cli-spinners`_: MIT License, Copyright (c) Royce Bob El Willie roycebobelwillie@gmail.com
 
 
 .. |Logo| image:: https://raw.githubusercontent.com/pavdmyt/yaspin/master/static/logo_80.png
